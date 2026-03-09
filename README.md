@@ -32,10 +32,13 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GutembergPraia&theme=tokyo-night"/>
+<div align="center">
 
-</p>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GutembergPraia&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GutembergPraia&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
