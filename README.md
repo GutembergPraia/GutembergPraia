@@ -33,10 +33,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutembergPraia&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutembergPraia&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GutembergPraia&theme=tokyo-night"/>
 
 </p>
 
@@ -98,8 +95,6 @@ Projetos de **impressão 3D** com:
 - upgrades de impressora
 
 ---
-
-# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
